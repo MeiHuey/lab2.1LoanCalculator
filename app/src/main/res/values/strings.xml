@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">lab2.1 Loan Calculator</string>
+    <string name="vehicle_price">Vehicle price</string>
+    <string name="downpayment">Downpayment</string>
+    <string name="repayment">Repayment (month)</string>
+    <string name="interest_rate">Interest Rate (%)</string>
+    <string name="salary">Salary</string>
+    <string name="calculate">Calculate</string>
+    <string name="reset">Reset</string>
+    <string name="monthly_payment">Monthly payment:</string>
+    <string name="status">Status:</string>
+    <string name="close">Close</string>
+    <string name="repayment_month">Repayment (month)</string>
+</resources>
